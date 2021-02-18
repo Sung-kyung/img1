@@ -209,3 +209,4 @@
 [0208/153420.079:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
 [0208/153420.119:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
 [0208/153421.020:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0216/162051.031:INFO:CONSOLE(1)] "Long rAF frame-time", source: file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-rich-tooltips/build/external.js (1)
